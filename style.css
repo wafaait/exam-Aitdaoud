@@ -1,0 +1,142 @@
+html {
+  scroll-behavior: smooth;
+}
+.bg-darky {
+  background-color: #000 !important;
+}
+.nav-item {
+  padding-left: 40px;
+  font-size: 16px;
+  
+}
+
+.container-fluid {
+  padding: 0 !important;
+}
+.cards {
+  margin-right: 0 !important;
+}
+.black {
+  color: #000;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon,
+.carousel-indicators {
+  filter: invert(1);
+}
+.card-body > ul > li:hover {
+  color: #007bff;
+}
+.cards {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.map-container-6 {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+.map-container-6 iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+footer {
+  background: #222;
+  color: #aaa;
+  padding-top: 10px;
+}
+footer a {
+  color: #aaa;
+}
+footer a:hover {
+  color: #fff;
+}
+footer h3 {
+  color: #0894d1;
+  letter-spacing: 1px;
+  margin: 30px 0 20px;
+}
+footer .copyright {
+  padding: 15px 0;
+  background: #333;
+  margin-top: 20px;
+  font-size: 15px;
+}
+footer .copyright span {
+  color: #0894d1;
+}
+.row.heading h2 {
+  color: #fff;
+  font-size: 52.52px;
+  line-height: 95px;
+  font-weight: 400;
+  text-align: center;
+  margin: 0 0 40px;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+}
+.our-webcoderskull ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.heading.heading-icon {
+  display: block;
+}
+.padding-lg {
+  display: block;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.our-webcoderskull .cnt-block:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  border: 0;
+}
+.our-webcoderskull {
+  background-color: rgb(192, 225, 238);
+}
+.our-webcoderskull .cnt-block {
+  float: left;
+  width: 100%;
+  background: #fff;
+  padding: 30px 20px;
+  text-align: center;
+  border: 2px solid #d5d5d5;
+  margin: 0 0 28px;
+}
+.our-webcoderskull .cnt-block figure {
+  width: 148px;
+  height: 148px;
+  border-radius: 100%;
+  display: inline-block;
+  margin-bottom: 15px;
+}
+.our-webcoderskull .cnt-block img {
+  width: 148px;
+  height: 148px;
+  border-radius: 100%;
+}
+.our-webcoderskull .cnt-block h3 {
+  color: #2a2a2a;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 6px 0;
+  text-transform: uppercase;
+}
+.our-webcoderskull .cnt-block h3 a {
+  text-decoration: none;
+  color: #2a2a2a;
+}
+.our-webcoderskull .cnt-block h3 a:hover {
+  color: #337ab7;
+}
+.our-webcoderskull .cnt-block p {
+  color: #2a2a2a;
+  font-size: 13px;
+  line-height: 20px;
+  font-weight: 400;
+}
